@@ -10,3 +10,7 @@ echo "Virtual environment created successfully!"
 
 # Activate the virtual environment (uncomment if desired)
 source .venv/bin/activate
+
+# Install the dependencies
+
+pip install -r requirements.txt
